@@ -1,0 +1,26 @@
+// Override any variables from spectaql's default theme
+
+$background: #222222;
+
+$text-color: white;
+$text-color-subtle: #808080;
+
+$link-color: #66d9ef;
+$link-color-hover: #83dced;
+
+$border-color: #565656;
+$border-color-subtle: #404040;
+
+$background-code-block-heading: #000000;
+$background-code-block: #000000;
+
+$background-error: #c60609;
+$text-color-error: #fed7d8;
+
+$background-arguments: #000;
+
+#spectaql {
+  .row-field-arguments .field-arguments {
+    border: none;
+  }
+}
