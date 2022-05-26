@@ -1,0 +1,17 @@
+{
+  "name": "spectaql-dark-theme",
+  "version": "0.0.1",
+  "description": "A dark theme for SpectaQL",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anvilco/spectaql-dark-theme.git"
+  },
+  "author": "Anvil (developers@useanvil.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anvilco/spectaql-dark-theme/issues"
+  },
+  "homepage": "https://github.com/anvilco/spectaql-dark-theme#readme"
+}
