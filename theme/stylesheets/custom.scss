@@ -19,6 +19,11 @@ $text-color-error: #fed7d8;
 
 $background-arguments: #000;
 
+$overlay-background: rgba(100, 100, 100, 0.7) !default;
+$overlay-background-hidden: rgba(100, 100, 100, 0) !default;
+
+// Override anything else with rules under the `#spectaql` id
+
 #spectaql {
   .row-field-arguments .field-arguments {
     border: none;
