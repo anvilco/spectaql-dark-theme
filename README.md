@@ -40,7 +40,7 @@ See the [example `config.yml`](https://github.com/anvilco/spectaql/blob/main/exa
 
 ### 2: Usage by copying
 
-It is likely you will want to modify the theme's colors and override styles. All you need to do is copy the entire [`theme`](theme) directory into your project. Once you have the `theme` directory in the location of your choice, reference the theme in your SpectaQL config:
+It is likely you will want to modify the theme's colors and override styles. All you need to do is copy the entire [`theme`](/theme) directory into your project. Once you have the `theme` directory in the location of your choice, reference the theme in your SpectaQL config:
 
 ```yaml
 spectaql:
