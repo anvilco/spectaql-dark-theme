@@ -1,6 +1,6 @@
 # SpectaQL Dark Theme
 
-A dark theme for SpectaQL based on the default SpectaQL theme.
+A dark theme for [SpectaQL](https://github.com/anvilco/spectaql) based on the default SpectaQL theme.
 
 ![dark spectaql theme](./img/screenshot-desktop.png)
 
